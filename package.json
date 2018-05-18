@@ -1,0 +1,21 @@
+{
+  "name": "react-avaliacao",
+  "version": "1.0.0",
+  "description": "\"avaliaçao\"",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaTeresaQ/react-avalia-ao.git"
+  },
+  "author": "maria teresa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MariaTeresaQ/react-avalia-ao/issues"
+  },
+  "homepage": "https://github.com/MariaTeresaQ/react-avalia-ao#readme"
+}
